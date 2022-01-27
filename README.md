@@ -1,2 +1,2 @@
 # ts-auto-correlation
-Coding Example from Time Series Tutorial ACF and PACF
+Code Beispiel von Time Series Tutorial Autocorrelation (ACF) und Partial Autocorrelation (PACF)
